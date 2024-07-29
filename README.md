@@ -1,3 +1,9 @@
+
+![Alt text](/Host_a_Dynamic_Website_on_AWS_with_EKS.png)
+
+![Alt text](/VPC_drawing.png)
+
+
 # Hosting a Dynamic Website on AWS Using Docker, EKS, and ECR
 
 This project demonstrates how to host a dynamic website on AWS using Docker containers, an EKS cluster, and ECR. It includes creating AWS infrastructure, configuring Kubernetes resources, and deploying the application. The reference diagram and configuration files are available in the [GitHub repository](https://github.com/galkini/host-dynamic-website-eks).
